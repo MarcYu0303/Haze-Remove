@@ -1,0 +1,46 @@
+﻿  源1.cpp
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(17,22): warning C4804: “>”: 在操作中使用类型“bool”不安全
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(82,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(84,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(99,19): warning C4305: “初始化”: 从“double”到“float”截断
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(109,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(111,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(141,20): warning C4305: “初始化”: 从“double”到“float”截断
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(142,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(144,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(166,16): warning C4305: “初始化”: 从“double”到“float”截断
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,132): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,168): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,205): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,241): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,248): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,175): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\Test_Opencv\源1.cpp(172,102): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+  Test_Opencv.vcxproj -> D:\360MoveData\Users\MarcYu\Desktop\DIP project\C++\Test_Opencv\x64\Debug\Test_Opencv.exe
